@@ -1,0 +1,95 @@
+<section id="sermon" class="sermon lightsmoke">
+       <div class="container">
+           <div class="row">
+                 <div class="col-sm-12">
+                    <div class="section-header">
+                        <h2 class="title-text wow bounce">SERMONS</h2>
+                        <p class="sub-title-text">Christ Lordship is one of the prestigious church in Nigeria which was established in 1995. It is established <br> in the Western and Eastern region of the country. To know more about our mission and other things you can visit <br> through the following sections.</p>
+                     </div>
+                 </div>
+             </div>
+            <div class="row">
+                <div class="col-sm-4 wow fadeInLeft" data-wow-delay=".8s">
+                    <div class="row">
+                        <div class="col-sm-4">
+                            <a href="#"><img src="images/sermon/1.jpg" alt="sermon image"></a>
+                        </div>
+                        <div class="col-sm-8">
+                            <h4><a href="blog-single.html">WORK AT IT WITH ALL YOUR HEART...</a></h4>
+                            <ul class="sermon-link">
+                                <li><a href="#"><i class="fa fa-youtube-play"></i></a></li>
+                                <li><a href="#"><i class="fa fa-book"></i></a></li>
+                                <li><a href="#"><i class="fa fa-book"></i></a></li>
+                                <li><a href="#"><i class="fa fa-cloud-download"></i></a></li>
+                            </ul>
+                            <!-- sermon-link end here -->
+                        </div>
+                    </div>
+                    <div class="sermon-meta">
+                        <span class="pull-left">Posted by <a href="#">Michael</a> on 24 January,2024</span>
+                        <span class="sermon-cat pull-right">Category: <a href="#">Salvation</a></span>
+                    </div>
+                    <!-- sermon-meta end here -->
+                    <div class="sermon-detail">
+                        Nemo enim ipsam voluptatem quvolup siasper natur aut odit aut fugit, sed quita cose quutum agndo lores eos qui ratione volupt atem sequi nesciunt.
+                        <p><a class="r-more" href="blog-single.html">read more</a></p>
+                    </div>
+                    <!-- sermon-detail end here -->
+                </div>
+                <div class="col-sm-4 wow fadeInLeft" data-wow-delay="1s">
+                    <div class="row">
+                        <div class="col-sm-4">
+                            <a href="#"><img src="images/sermon/1.jpg" alt="sermon image"></a>
+                        </div>
+                        <div class="col-sm-8">
+                            <h4><a href="blog-single.html">WORK AT IT WITH ALL YOUR HEART...</a></h4>
+                            <ul class="sermon-link">
+                                <li><a href="#"><i class="fa fa-youtube-play"></i></a></li>
+                                <li><a href="#"><i class="fa fa-book"></i></a></li>
+                                <li><a href="#"><i class="fa fa-book"></i></a></li>
+                                <li><a href="#"><i class="fa fa-cloud-download"></i></a></li>
+                            </ul>
+                            <!-- sermon-link end here -->
+                        </div>
+                    </div>
+                    <div class="sermon-meta">
+                        <span class="pull-left">posted by <a href="#">Michael</a> on 24 January,2024</span>
+                        <span class="sermon-cat pull-right">Category: <a href="#">Salvation</a></span>
+                    </div>
+                    <!-- sermon-meta end here -->
+                    <div class="sermon-detail">
+                        Nemo enim ipsam voluptatem quvolup siasper natur aut odit aut fugit, sed quita cose quutum agndo lores eos qui ratione volupt atem sequi nesciunt.
+                        <p><a class="r-more" href="blog-single.html">read more</a></p>
+                    </div>
+                    <!-- sermon-detail end here -->
+                </div>
+                <div class="col-sm-4 wow fadeInLeft" data-wow-delay="1.2s">
+                    <div class="row">
+                        <div class="col-sm-4">
+                            <a href="#"><img src="images/sermon/1.jpg" alt="sermon image"></a>
+                        </div>
+                        <div class="col-sm-8">
+                            <h4><a href="blog-single.html">WORK AT IT WITH ALL YOUR HEART...</a></h4>
+                            <ul class="sermon-link">
+                                <li><a href="#"><i class="fa fa-youtube-play"></i></a></li>
+                                <li><a href="#"><i class="fa fa-book"></i></a></li>
+                                <li><a href="#"><i class="fa fa-book"></i></a></li>
+                                <li><a href="#"><i class="fa fa-cloud-download"></i></a></li>
+                            </ul>
+                            <!-- sermon-link end here -->
+                        </div>
+                    </div>
+                    <div class="sermon-meta">
+                        <span class="pull-left">posted by <a href="#">Michael</a> on 24 January,2024</span>
+                        <span class="sermon-cat pull-right">Category: <a href="#">Salvation</a></span>
+                    </div>
+                    <!-- sermon-meta end here -->
+                    <div class="sermon-detail">
+                        Nemo enim ipsam voluptatem quvolup siasper natur aut odit aut fugit, sed quita cose quutum agndo lores eos qui ratione volupt atem sequi nesciunt.
+                        <p><a class="r-more" href="blog-single.html">read more</a></p>
+                    </div>
+                    <!-- sermon-detail end here -->
+                </div>
+            </div>
+       </div> 
+    </section>

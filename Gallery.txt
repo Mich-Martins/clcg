@@ -1,0 +1,79 @@
+<div class="gallery">
+		<div class="container">
+			<div class="row">
+				<div class="gallary-filter-area">
+					 <div class="col-sm-12">
+						<div class="section-header">
+							<h2 class="title-text wow bounce">Gallery</h2>
+							 <p class="sub-title-text">Christ Lordship is one of the prestigious church in Nigeria which was established in 1995. It is established <br> in the Western and Eastern region of the country. To know more about our mission and other things you can visit <br> through the following sections.</p>
+						 </div>
+					 </div>
+				</div>
+			
+				<div class="gallery-filter text-center">
+					<button data-filter="all" class="filter active">All</button>
+					<button data-filter=".chrismas" class="filter">Chrismas</button>
+					<button data-filter=".church" class="filter">Church</button>
+					<button data-filter=".ministry" class="filter">Ministry</button>
+					<button data-filter=".uncategorized" class="filter">Uncategorized</button>
+				</div>
+			
+				<div id="gallery_grid_filter">
+					<div class="col-md-4 mix church ministry">
+						<div class="gallery-item mrg-b-30">
+							<div class="gallery-thumb">
+								<img src="images/gallery/1.jpg" alt class="img-responsive">
+								<a class="gallery-popup" href="images/gallery/1.jpg"><div class="gallery-overlay"></div></a>
+								<a href="#" class="gallery-text">Merry Chrismas</a>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 mix ministry uncategorized">
+						<div class="gallery-item mrg-b-30">
+							<div class="gallery-thumb">
+								<img src="images/gallery/2.jpg" alt class="img-responsive">
+								<a class="gallery-popup" href="images/gallery/2.jpg"><div class="gallery-overlay"></div></a>
+								<a href="#" class="gallery-text">Merry Chrismas</a>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 mix chrismas ministry uncategorized">
+						<div class="gallery-item mrg-b-30">
+							<div class="gallery-thumb">
+								<img src="images/gallery/4.jpg" alt class="img-responsive">
+								<a class="gallery-popup" href="images/gallery/4.jpg"><div class="gallery-overlay"></div></a>
+								<a href="#" class="gallery-text">Merry Chrismas</a>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 mix chrismas ministry">
+						<div class="gallery-item mrg-b-30">
+							<div class="gallery-thumb">
+								<img src="images/gallery/3.jpg" alt class="img-responsive">
+								<a class="gallery-popup" href="images/gallery/3.jpg"><div class="gallery-overlay"></div></a>
+								<a href="#" class="gallery-text">Merry Chrismas</a>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 mix chrismas uncategorized">
+						<div class="gallery-item mrg-b-30">
+							<div class="gallery-thumb">
+								<img src="images/gallery/4.jpg" alt class="img-responsive">
+								<a class="gallery-popup" href="images/gallery/4.jpg"><div class="gallery-overlay"></div></a>
+								<a href="#" class="gallery-text">Merry Chrismas</a>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 mix chrismas ministry uncategorized">
+						<div class="gallery-item mrg-b-30">
+							<div class="gallery-thumb">
+								<img src="images/gallery/1.jpg" alt class="img-responsive">
+								<a class="gallery-popup" href="images/gallery/1.jpg"><div class="gallery-overlay"></div></a>
+								<a href="#" class="gallery-text">Merry Chrismas</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>

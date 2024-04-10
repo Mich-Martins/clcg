@@ -1,0 +1,123 @@
+ <section id="ministires" class="ministires">
+         <div class="container">
+             <div class="row">
+                 <div class="col-sm-12">
+                     <div class="section-header">
+                        <h2 class="title-text wow bounce">MINISTRIES</h2>
+                        <p class="sub-title-text">Christ Lordship is one of the prestigious church in Nigeria which was established in 1995. It is established <br> in the Western and Eastern region of the country. To know more about our mission and other things you can visit <br> through the following sections.</p>
+                     </div>                    
+                 </div>
+             </div>
+             <div class="row">
+                <div class="col-sm-12">
+                    <div id="ministires-carousel" class="owl-carousel">
+                        <div class="item">
+                            <div class="min-block">
+                              <img class="img-responsive" src="images/ministries/1.jpg" alt="ministries image">
+                               <div class="ministries-caption">
+                                   <h4>CHILDREN MINISTRY</h4>
+                               </div>
+                               <div class="min-block-hover">
+                                   <h4>CHILDREN MINISTRY</h4>
+                                   <p>exercitatio ullamco laboris nisi ut aliquip ex ca commodo cosequat. duis aute irure dolor i reprehenderit in volptate velit esse cillum dolore eu fugiat ulla pariatur. Exepteur sint oporro quisquam est, qui dolorem ipsum quia dolor sit amet, cosectetur,adipiscivelit,sed quia o umquam eius modi tempora.</p>
+                                   <p><a href="blog-single.html" class="btn btn-yellow-trans">LEARN MORE</a></p>
+                                </div>
+                                <!-- min-block-hover end here -->
+                            </div>
+                            <!-- min-hover end -->
+                        </div>
+                        <div class="item">
+                            <div class="min-block">
+                              <img class="img-responsive" src="images/ministries/2.jpg" alt="ministries image">
+                               <div class="ministries-caption">
+                                   <h4>CHILDREN MINISTRY</h4>
+                               </div>
+                               <div class="min-block-hover">
+                                   <h4>CHILDREN MINISTRY</h4>
+                                   <p>exercitatio ullamco laboris nisi ut aliquip ex ca commodo cosequat. duis aute irure dolor i reprehenderit in volptate velit esse cillum dolore eu fugiat ulla pariatur. Exepteur sint oporro quisquam est, qui dolorem ipsum quia dolor sit amet, cosectetur,adipiscivelit,sed quia o umquam eius modi tempora.</p>
+                                   <p><a href="blog-single.html" class="btn btn-yellow-trans">LEARN MORE</a></p>
+                                </div>
+                                <!-- min-block-hover end here -->
+                            </div>
+                            <!-- min-hover end -->
+                        </div>
+                        <div class="item">
+                            <div class="min-block">
+                              <img class="img-responsive" src="images/ministries/1.jpg" alt="ministries image">
+                               <div class="ministries-caption">
+                                   <h4>CHILDREN MINISTRY</h4>
+                               </div>
+                               <div class="min-block-hover">
+                                   <h4>CHILDREN MINISTRY</h4>
+                                   <p>exercitatio ullamco laboris nisi ut aliquip ex ca commodo cosequat. duis aute irure dolor i reprehenderit in volptate velit esse cillum dolore eu fugiat ulla pariatur. Exepteur sint oporro quisquam est, qui dolorem ipsum quia dolor sit amet, cosectetur,adipiscivelit,sed quia o umquam eius modi tempora.</p>
+                                   <p><a href="blog-single.html" class="btn btn-yellow-trans">LEARN MORE</a></p>
+                                </div>
+                                <!-- min-block-hover end here -->
+                            </div>
+                            <!-- min-hover end -->
+                        </div>
+                        <div class="item">
+                            <div class="min-block">
+                              <img class="img-responsive" src="images/ministries/2.jpg" alt="ministries image">
+                               <div class="ministries-caption">
+                                   <h4>CHILDREN MINISTRY</h4>
+                               </div>
+                               <div class="min-block-hover">
+                                   <h4>CHILDREN MINISTRY</h4>
+                                   <p>exercitatio ullamco laboris nisi ut aliquip ex ca commodo cosequat. duis aute irure dolor i reprehenderit in volptate velit esse cillum dolore eu fugiat ulla pariatur. Exepteur sint oporro quisquam est, qui dolorem ipsum quia dolor sit amet, cosectetur,adipiscivelit,sed quia o umquam eius modi tempora.</p>
+                                   <p><a href="blog-single.html" class="btn btn-yellow-trans">LEARN MORE</a></p>
+                                </div>
+                                <!-- min-block-hover end here -->
+                            </div>
+                            <!-- min-hover end -->
+                        </div>
+                        <div class="item">
+                            <div class="min-block">
+                              <img class="img-responsive" src="images/ministries/1.jpg" alt="ministries image">
+                               <div class="ministries-caption">
+                                   <h4>CHILDREN MINISTRY</h4>
+                               </div>
+                               <div class="min-block-hover">
+                                   <h4>CHILDREN MINISTRY</h4>
+                                   <p>exercitatio ullamco laboris nisi ut aliquip ex ca commodo cosequat. duis aute irure dolor i reprehenderit in volptate velit esse cillum dolore eu fugiat ulla pariatur. Exepteur sint oporro quisquam est, qui dolorem ipsum quia dolor sit amet, cosectetur,adipiscivelit,sed quia o umquam eius modi tempora.</p>
+                                   <p><a href="blog-single.html" class="btn btn-yellow-trans">LEARN MORE</a></p>
+                                </div>
+                                <!-- min-block-hover end here -->
+                            </div>
+                            <!-- min-hover end -->
+                        </div>
+                        <div class="item">
+                            <div class="min-block">
+                              <img class="img-responsive" src="images/ministries/2.jpg" alt="ministries image">
+                               <div class="ministries-caption">
+                                   <h4>CHILDREN MINISTRY</h4>
+                               </div>
+                               <div class="min-block-hover">
+                                   <h4>CHILDREN MINISTRY</h4>
+                                   <p>exercitatio ullamco laboris nisi ut aliquip ex ca commodo cosequat. duis aute irure dolor i reprehenderit in volptate velit esse cillum dolore eu fugiat ulla pariatur. Exepteur sint oporro quisquam est, qui dolorem ipsum quia dolor sit amet, cosectetur,adipiscivelit,sed quia o umquam eius modi tempora.</p>
+                                   <p><a href="blog-single.html" class="btn btn-yellow-trans">LEARN MORE</a></p>
+                                </div>
+                                <!-- min-block-hover end here -->
+                            </div>
+                            <!-- min-hover end -->
+                        </div>
+                        <div class="item">
+                            <div class="min-block">
+                              <img class="img-responsive" src="images/ministries/1.jpg" alt="ministries image">
+                               <div class="ministries-caption">
+                                   <h4>CHILDREN MINISTRY</h4>
+                               </div>
+                               <div class="min-block-hover">
+                                   <h4>CHILDREN MINISTRY</h4>
+                                   <p>exercitatio ullamco laboris nisi ut aliquip ex ca commodo cosequat. duis aute irure dolor i reprehenderit in volptate velit esse cillum dolore eu fugiat ulla pariatur. Exepteur sint oporro quisquam est, qui dolorem ipsum quia dolor sit amet, cosectetur,adipiscivelit,sed quia o umquam eius modi tempora.</p>
+                                   <p><a href="blog-single.html" class="btn btn-yellow-trans">LEARN MORE</a></p>
+                                </div>
+                                <!-- min-block-hover end here -->
+                            </div>
+                            <!-- min-hover end -->
+                        </div>
+                    </div>
+                </div>                 
+             </div>
+         </div>
+    </section>

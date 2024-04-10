@@ -1,0 +1,71 @@
+ <section id="event" class="event">
+        <div class="container">
+            <div class="row">
+                 <div class="col-sm-12">
+                    <div class="section-header">
+                        <h2 class="title-text wow bounce">OUR EVENTS</h2>
+                        <p class="sub-title-text">Christ Lordship is one of the prestigious church in Nigeria which was established in 1995. It is established <br> in the Western and Eastern region of the country. To know more about our mission and other things you can visit <br> through the following sections.</p>
+                     </div>
+                 </div>
+             </div>
+            <div class="row">
+                <div class="col-sm-5">
+                    <img class="img-responsive" src="images/event/event-big.jpg" alt="event image">
+                    <div class="event-block-count-down">
+                        
+                    </div>
+                    <!-- event-block end here -->
+                    <div class="event-detail">
+                       <h4>THE DAY TO ADOPT BAPTISM</h4>
+                       <span class="church-center">
+                           Place at: <a href="#">Church HQ</a>
+                       </span>
+                       <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consecteturdipisci vlit, sed quia non numquam eisu modi temp rauui dolorem ipsum quia dolor sit amet.</p>
+                       <p><a href="#" class="btn default-btn yellow">JOIN NOW</a></p>
+                    </div>
+                    <!-- event-detail end here -->
+                </div>
+                <div class="col-sm-7 event-block-list">
+                    <div class="row">
+                        <div class="col-sm-5">
+                            <img class="img-responsive" src="images/event/1.jpg" alt="event image">
+                        </div>
+                        <div class="col-sm-7">
+                            <h4 class="event-list-title"> <a href="blog-single.html">THE FOURTH ASSEMBLY OF THE MINISTRY FOR CHILDREN</a></h4>
+                            <div class="event-meta">
+                                <span class="pull-left">Event Starts <span class="event-meta-highlt">24 January, 2024</span></span>
+                                <span class="pull-right">Place at <a href="#" class="event-meta-highlt">Church HQ</a></span>
+                            </div>
+                            <a class="btn default-btn" href="blog-single.html">LEARN MORE</a>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-5">
+                            <img class="img-responsive" src="images/event/2.jpg" alt="event image">
+                        </div>
+                        <div class="col-sm-7">
+                            <h4 class="event-list-title"><a href="blog-single.html">THE FOURTH ASSEMBLY OF THE MINISTRY FOR CHILDREN</a> </h4>
+                            <div class="event-meta">
+                                <span class="pull-left">Event Starts <span class="event-meta-highlt">24 January, 2024</span></span>
+                                <span class="pull-right">Place at <a href="#" class="event-meta-highlt">Church HQ</a></span>
+                            </div>
+                            <a class="btn default-btn" href="blog-single.html">LEARN MORE</a>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-5">
+                            <img class="img-responsive" src="images/event/3.jpg" alt="event image">
+                        </div>
+                        <div class="col-sm-7">
+                            <h4 class="event-list-title"><a href="blog-single.html">THE FOURTH ASSEMBLY OF THE MINISTRY FOR CHILDREN</a></h4>
+                            <div class="event-meta">
+                                <span class="pull-left">Event Starts <span class="event-meta-highlt">24 January, 2024</span></span>
+                                <span class="pull-right">Place at <a href="#" class="event-meta-highlt">Church HQ</a></span>
+                            </div>
+                            <a class="btn default-btn" href="blog-single.html">LEARN MORE</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
